@@ -1,0 +1,355 @@
+/**
+ * Sass CSS Framework: Forms
+ *
+ * Requires: mizzou-variables.scss, mizzou-base.scss
+ *
+ * @author Josh Hughes (hughesjd@missouri.edu), Undergraduate Studies, University of Missouri
+ * @copyright 2016 Curators of the University of Missouri
+ */
+
+$miz-text-muted-color: #999 !default;
+$miz-small-font-size: 0.8em !default;
+$miz-font-weight-bold: 700 !default;
+
+// White
+$miz-white: #FFFFFF !default;
+
+// Golds
+//
+// Colors:
+// $miz-gold-100           : #FFF4D6
+// $miz-gold-200           : #FEE8B6
+// $miz-gold-300           : #FBD986
+// $miz-gold-400           : #F1B82D - Mizzou Gold
+// $miz-gold-500           : #D79900
+// $miz-gold-600           : #AF7C00
+//
+// Styleguide Base.Colors.Primary.Golds
+$miz-gold: #F1B82D !default;
+$miz-gold-100: #FFF4D6 !default;
+$miz-gold-200: #FEE8B6 !default;
+$miz-gold-300: #FBD986 !default;
+$miz-gold-400: $miz-gold !default;
+$miz-gold-500: #D79900 !default;
+$miz-gold-600: #AF7C00 !default;
+
+// Black & grays
+//
+// Colors:
+// $miz-black-100           : #F0F0F0
+// $miz-black-200           : #CCCCCC
+// $miz-black-300           : #999999
+// $miz-black-400           : #666666
+// $miz-black-500           : #444444
+// $miz-black-600           : #222222
+//
+// Styleguide Base.Colors.Primary.Grays
+$miz-black: #111111 !default;
+$miz-black-100: #F0F0F0 !default;
+$miz-black-200: #CCCCCC !default;
+$miz-black-300: #999999 !default;
+$miz-black-400: #666666 !default;
+$miz-black-500: #444444 !default;
+$miz-black-600: #222222 !default;
+$miz-black-700: $miz-black !default;
+
+// Additional grays
+//
+// Colors:
+// $miz-gray                : #44444  - Base gray
+// $miz-warm-gray           : #8F8884 - Warm gray
+// $miz-warm-gray--light    : #DBD5CD - Light warm gray
+//
+// Styleguide Base.Colors.Primary.Grays.Additional
+$miz-gray: #444444 !default; // Same as $miz-black-500
+$miz-warm-gray: #8F8884 !default;
+$miz-warm-gray--light: #DBD5CD !default;
+
+// Secondary colors
+//
+// These colors are available for additional uses.
+//
+// Styleguide Base.Colors.Secondary
+
+// Red
+//
+// Colors:
+// $miz-red         : #900000
+// $miz-red-100     : #FFECEC
+// $miz-red-200     : #FFC2C4
+// $miz-red-300     : #CA4B4B
+// $miz-red-400     : #900000
+// $miz-red-500     : #6A0206
+// $miz-red-600     : #470102
+//
+// Weight: 1
+//
+// Styleguide Base.Colors.Secondary.Red
+$miz-red: #900000 !default;
+$miz-red-100: #FFECEC !default;
+$miz-red-200: #FFC2C4 !default;
+$miz-red-300: #CA4B4B !default;
+$miz-red-400: $miz-red;
+$miz-red-500: #6A0206 !default;
+$miz-red-600: #470102 !default;
+
+// Orange
+//
+// Colors:
+// $miz-orange      : #bd4d1f
+// $miz-orange-100  : #FFE4DB
+// $miz-orange-200  : #FFBEA9
+// $miz-orange-300  : #DE6835
+// $miz-orange-400  : #bd4d1f
+// $miz-orange-500  : #992D00
+// $miz-orange-600  : #611C00
+//
+// Weight: 2
+//
+// Styleguide Base.Colors.Secondary.Orange
+$miz-orange: #BD4D1F !default;
+$miz-orange-100: #FFE4DB !default;
+$miz-orange-200: #FFBEA9 !default;
+$miz-orange-300: #DE6835 !default;
+$miz-orange-400: $miz-orange;
+$miz-orange-500: #992D00 !default;
+$miz-orange-600: #611C00 !default;
+
+// Blue
+//
+// Colors:
+// $miz-blue        : #318FD7
+// $miz-blue-100    : #E4F1FA
+// $miz-blue-200    : #B2D5F0
+// $miz-blue-300    : #65ABE1
+// $miz-blue-400    : #318FD7
+// $miz-blue-500    : #1A5888
+// $miz-blue-600    : #143650
+//
+// Weight: 3
+//
+// Styleguide Base.Colors.Secondary.Blue
+$miz-blue: #318FD7 !default;
+$miz-blue-100: #E4F1FA !default;
+$miz-blue-200: #B2D5F0 !default;
+$miz-blue-300: #65ABE1 !default;
+$miz-blue-400: $miz-blue;
+$miz-blue-500: #1A5888 !default;
+$miz-blue-600: #143650 !default;
+
+// Green
+//
+// Colors:
+// $miz-green       : #3F8F26
+// $miz-green-100   : #EBF4E9
+// $miz-green-200   : #B2CFA9
+// $miz-green-300   : #6FAB5D
+// $miz-green-400   : #3F8F26
+// $miz-green-500   : #2D671B
+// $miz-green-600   : #214716
+//
+// Weight: 4
+//
+// Styleguide Base.Colors.Secondary.Green
+$miz-green: #3F8F26 !default;
+$miz-green-100: #EBF4E9 !default;
+$miz-green-200: #B2CFA9 !default;
+$miz-green-300: #6FAB5D !default;
+$miz-green-400: $miz-green;
+$miz-green-500: #2D671B !default;
+$miz-green-600: #214716 !default;
+
+// Field containers
+.miz-form__field {
+  padding-top: 8px;
+}
+
+// Labels
+.miz-form__field__label {
+  color: $miz-text-muted-color;
+  font-size: $miz-small-font-size;
+  font-weight: $miz-font-weight-bold;
+  text-transform: uppercase;
+}
+
+// Default width fields
+.miz-form__field__text {
+  &.miz-form__field__text--default-width {
+    width: auto;
+  }
+}
+
+// Errors
+.miz-form__field.miz-form__field--error {
+  .miz-form__field__label {
+    color: $miz-red-400;
+  }
+
+  .miz-form__field__text {
+    border-color: $miz-red-300;
+
+    &:focus {
+      outline-color: transparentize($miz-red-300, 0.25);
+    }
+  }
+}
+
+.miz-form__field__error-message {
+  padding: 4px 8px;
+  border: 1px solid $miz-red-200;
+  background: $miz-red-100;
+  color: $miz-red-400;
+  display: block;
+  position: relative;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  font-weight: normal;
+
+  @supports (transform: rotate(-45deg)) {
+    &:after {
+      content: ' ';
+      display: block;
+      position: absolute;
+      width: 12px;
+      height: 12px;
+      background: $miz-red-100;
+      bottom: -7px;
+      left: 16px;
+      transform: rotate(-45deg);
+      border-left: 1px solid $miz-red-200;
+      border-bottom: 1px solid $miz-red-200;
+    }
+  }
+}
+
+.miz-form__field__error-message__separator {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.miz-form__field__select {
+  border: 0;
+  border-bottom: 2px solid;
+  padding: 0.25rem;
+}
+
+// Custom layout for checkboxes and radio buttons
+.miz-form__field__box-list {
+  list-style: none;
+  padding: 0;
+}
+
+.miz-form__field__box-list__item {
+  position: relative;
+
+  label {
+    display: block;
+    background: lighten($miz-black-100, 2%);
+    border: 1px solid $miz-black-200;
+    color: $miz-black-500;
+    border-radius: 4px;
+    padding: 4px 8px 4px 36px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .miz-form__field__checkbox,
+  .miz-form__field__radio {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+    // Checkbox or Radio button, redrawn
+    & + label:before {
+      content: ' ';
+      display: block;
+      border: 1px solid $miz-black-200;
+      background: #fff;
+      width: 20px;
+      height: 20px;
+      border-radius: 2px;
+      position: absolute;
+      top: 6px;
+      left: 8px;
+    }
+
+    // Focus style for label when unchecked
+    &:focus + label {
+      border-color: $miz-gold-500;
+      outline: 4px solid transparentize($miz-gold-500, 0.25);
+      outline-offset: 0;
+      border-radius: 0;
+    }
+
+    // Focus style for label when checked
+    &:checked:focus + label {
+      border-color: $miz-gold-500;
+    }
+
+    // Style for label when checked
+    &:checked + label {
+      background: $miz-gold-100;
+      border-color: $miz-gold-300;
+
+      // Checkbox or Radio button, redrawn
+      &:before {
+        border-color: $miz-gold-500;
+      }
+    }
+  }
+
+  .miz-form__field__checkbox {
+    // Checkbox, redrawn
+    & + label:before {
+      border-radius: 2px;
+    }
+
+    // Checkbox, redrawn when checked
+    &:checked + label:after {
+      content: ' ';
+      display: block;
+      border-left: 2px solid #000;
+      border-bottom: 2px solid #000;
+      width: 10px;
+      height: 5px;
+      position: absolute;
+      top: 13px;
+      left: 13px;
+      transform: rotate(-45deg);
+    }
+  }
+
+  .miz-form__field__radio {
+    // Radio button, redrawn
+    & + label:before {
+      border-radius: 10px;
+    }
+
+    // Radio button, redrawn when checked
+    &:checked + label:after {
+      content: ' ';
+      display: block;
+      background: #000;
+      width: 8px;
+      height: 8px;
+      border-radius: 4px;
+      position: absolute;
+      top: 12px;
+      left: 14px;
+    }
+  }
+}
+
+.miz-form__field__help {
+  font-size: 14px;
+  padding-top: 4px;
+  margin-bottom: 0;
+}

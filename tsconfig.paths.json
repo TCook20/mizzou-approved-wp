@@ -1,0 +1,14 @@
+// jsconfig.paths.json or tsconfig.paths.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "Components/*": [
+        "@university-of-missouri/mizzou-design-system/src/components/*"
+      ],
+      "@wordpress/*": [
+        "@wordpress/*"
+      ]
+    }
+  },
+}

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "moduleResolution": "node",
+    "declaration": false,
+    "noImplicitAny": true,
+    "jsx": "react",
+    "skipLibCheck": true,
+    "baseUrl": "./",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "rootDir": "./src/",
+    "outDir": "./dist/es5/",
+    "resolveJsonModule": true,
+  },
+  "include": ["src/**/*", "types/**/*", "*", "node_modules"],
+  "compileOnSave": false,
+  "extends": "./tsconfig.paths.json"
+}
