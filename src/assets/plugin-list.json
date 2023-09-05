@@ -2,7 +2,7 @@
   "repoSources": [
     {
       "name": "Mizzou Packages",
-      "description": "",
+      "description": "Private composer repository for University of Missouri packages.",
       "url": "https://packages.missouri.edu/php"
     },
     {
@@ -201,14 +201,20 @@
       "name": "wpackagist-plugin/classic-widgets",
       "description": "Classic Widgets is an official plugin maintained by the WordPress team that restores the previous (classic) WordPress widgets settings screens. It will be supported and maintained to 2024, or as long as is necessary.",
       "type": "wordpress-plugin",
-      "statusDescription": "Replace",
+      "status": {
+        "short": "replace",
+        "description": ""
+      },
       "source": "wpackagist.org"
     },
     {
       "name": "wpackagist-plugin/classic-editor",
       "description": "Classic Editor is an official WordPress plugin, and will be fully supported and maintained until 2024, or as long as is necessary.",
       "type": "wordpress-plugin",
-      "statusDescription": "Replace",
+      "status": {
+        "short": "replace",
+        "description": ""
+      },
       "source": "wpackagist.org"
     },
     {
@@ -712,6 +718,16 @@
     {
       "name": "wpackagist-plugin/google-sitemap-generator",
       "description": "This plugin will improve SEO by helping search enginess better index your site using sitemaps.",
+      "type": "wordpress-plugin",
+      "status": {
+        "short": "awaiting-review",
+        "description": "Awaiting Review"
+      },
+      "source": "wpackagist.org"
+    },
+    {
+      "name": "wpackagist-plugin/accessibility-checker",
+      "description": "Accessibility Checker automatically scans your content each time you save a draft or hit publish, giving you real-time feedback on your post’s or page’s accessibility. Receive a visual overview of how your content stacks up against more than 40 different accessibility checks created to meet Web Content Accessibility Guidelines (WCAG) 2.1 success criteria.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
