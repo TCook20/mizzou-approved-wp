@@ -26,10 +26,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
-      "title": "",
+      "title": "Mizzou MVC Base Theme Defaults",
       "name": "mizzou-wordpress/mizzou-wp-base-defaults",
       "description": "Installs defaults for use of the Mizzou WordPress Base Theme.",
       "type": "metapackage",
@@ -37,6 +38,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -48,6 +50,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -59,10 +62,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
-      "title": "",
+      "title": "Mizzou WordPress Calendar Model",
       "name": "mizzou-wordpress/calendar",
       "description": "A model to translate Localist events for usage in Mizzou WordPress sites.",
       "type": "library",
@@ -70,6 +74,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -81,6 +86,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -92,6 +98,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -103,6 +110,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -114,6 +122,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -125,6 +134,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
@@ -136,10 +146,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "TwentyTwentyTwo",
+      "title": "Twenty Twenty-Two",
       "name": "wpackagist-theme/twentytwentytwo",
       "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website.",
       "type": "wordpress-theme",
@@ -147,6 +158,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -158,10 +170,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Cache-Control for WordPress",
       "name": "wpackagist-plugin/cache-control",
       "description": "This is not a caching plugin in itself, but will enable you to leverage existing standard compliant caching systems better. You can set different policies for different kinds of pages to suite your website's needs. The Cache-Control for WordPress plugin allows you to set different policies for shared/intermediary and private caches. The plugin sets some sensible defaults for a medium traffic blog that publishes an update or two per week.",
       "type": "wordpress-plugin",
@@ -169,10 +182,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "WP-CFM",
       "name": "wpackagist-plugin/wp-cfm",
       "description": "WP-CFM lets you copy database configuration to / from the filesystem. Easily deploy configuration changes without needing to copy the entire database. WP-CFM is similar to Drupal’s Features module.",
       "type": "wordpress-plugin",
@@ -180,10 +194,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Advanced Editor Tools (previously TinyMCE Advanced)",
       "name": "wpackagist-plugin/tinymce-advanced",
       "description": "Advanced Editor Tools (previously TinyMCE Advanced) introduces a Classic Paragraph block for the block editor.",
       "type": "wordpress-plugin",
@@ -191,6 +206,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -202,6 +218,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -213,6 +230,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -224,6 +242,7 @@
         "short": "replace",
         "description": ""
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -235,6 +254,7 @@
         "short": "replace",
         "description": ""
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -246,6 +266,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -257,6 +278,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -268,6 +290,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -279,10 +302,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Attachments",
       "name": "wpackagist-plugin/attachments",
       "description": "Attachments allows you to simply append any number of items from your WordPress Media Library to Posts, Pages, and Custom Post Types.",
       "type": "wordpress-plugin",
@@ -290,6 +314,7 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -301,6 +326,7 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -312,6 +338,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -323,6 +350,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -334,6 +362,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -345,6 +374,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -356,6 +386,7 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -367,6 +398,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -378,6 +410,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -389,6 +422,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -400,10 +434,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Display Posts",
       "name": "wpackagist-plugin/display-posts-shortcode",
       "description": "Display Posts allows you easily list content from all across your website.",
       "type": "wordpress-plugin",
@@ -411,6 +446,7 @@
         "short": "not-approved",
         "description": "Not necessary with Block Editor usage. Replaceable with the Query block."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -422,6 +458,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -433,6 +470,7 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -444,6 +482,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -455,6 +494,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -466,6 +506,7 @@
         "short": "not-approved",
         "description": "Not for use on a production site."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -477,6 +518,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -488,6 +530,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -499,6 +542,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -510,10 +554,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Jetpack",
       "name": "wpackagist-plugin/jetpack",
       "description": "WordPress security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",
       "type": "wordpress-plugin",
@@ -521,6 +566,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -530,10 +576,11 @@
       "type": "wordpress-plugin",
       "status": "not-approved",
       "statusDescription": "Not Approved. Doesn't work with block editor.",
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Mailchimp for WP",
       "name": "wpackagist-plugin/mailchimp-for-wp",
       "description": "This plugins helps you grow your email list in Mailchimp. You can use it to create good looking and accessible sign-up forms or integrate with any other existing form on your WordPress site, like your contact, comment or checkout form.",
       "type": "wordpress-plugin",
@@ -541,6 +588,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -552,10 +600,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Page Generator",
       "name": "wpackagist-plugin/page-generator",
       "description": "Page Generator is a mass page generator (sometimes called a bulk page generator or bulk post generator) that creates multiple pages in bulk.",
       "type": "wordpress-plugin",
@@ -563,6 +612,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -574,6 +624,7 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -585,6 +636,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -596,6 +648,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -607,10 +660,11 @@
         "short": "not-approved",
         "description": "Not Approved. Not tested with latest 3 major releases."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "PublishPress Future",
       "name": "wpackagist-plugin/post-expirator",
       "description": "The PublishPress Future plugin allows you to make automatic changes to posts, pages and other content types. On a date you choose, PublishPress Future can delete your post, change the status, or update the post categories, or make other changes.",
       "type": "wordpress-plugin",
@@ -618,10 +672,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Regenerate Thumbnails",
       "name": "wpackagist-plugin/regenerate-thumbnails",
       "description": "Regenerate Thumbnails allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library.",
       "type": "wordpress-plugin",
@@ -629,6 +684,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -640,10 +696,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Shortcodes Ultimate",
       "name": "wpackagist-plugin/shortcodes-ultimate",
       "description": "Shortcodes Ultimate is a comprehensive collection of various visual and functional elements, which you can use in the post editor, text widgets or even in template files. Using Shortcodes Ultimate you can easily create tabs, buttons, boxes, sliders and carousels, responsive videos and much, much more.",
       "type": "wordpress-plugin",
@@ -651,6 +708,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -662,10 +720,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "User Role Editor",
       "name": "wpackagist-plugin/user-role-editor",
       "description": "User Role Editor WordPress plugin makes user roles and capabilities changing easy.",
       "type": "wordpress-plugin",
@@ -673,6 +732,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -684,6 +744,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -695,6 +756,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -706,10 +768,11 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "MetaSlider",
       "name": "wpackagist-plugin/ml-slider",
       "description": "With MetaSlider you can create a powerful, SEO-optimized slider, slideshow, carousel, or gallery in minutes with the world’s #1 responsive WordPress slider plugin. MetaSlider is the best choice for image, photo, video (YouTube and Vimeo), layer, HTML, WooCommerce, and post feed sliders!",
       "type": "wordpress-plugin",
@@ -717,10 +780,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Timeline Plugin for WordPress",
       "name": "wpackagist-plugin/timeline-and-history-slider",
       "description": "Timeline Plugin for WordPress. Easy to add and display history OR timeline for your WordPress website. Also work with Gutenberg shortcode block.",
       "type": "wordpress-plugin",
@@ -728,6 +792,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -739,10 +804,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Google Analyticator",
       "name": "wpackagist-plugin/google-analyticator",
       "description": "Google Analyticator makes it super easy to view Google Analytics within your WordPress dashboard. This eliminates the need to edit your template code to begin logging. Google Analyticator also includes several widgets for displaying Analytics data in the admin and on your blog.",
       "type": "wordpress-plugin",
@@ -750,6 +816,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -761,10 +828,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Google Site Kit",
       "name": "wpackagist-plugin/google-site-kit",
       "description": "Site Kit is the official WordPress plugin from Google for insights about how people find and use your site. Site Kit is the one-stop solution to deploy, manage, and get insights from critical Google tools to make the site successful on the web. It provides authoritative, up-to-date insights from multiple Google products directly on the WordPress dashboard for easy access, all for free.",
       "type": "wordpress-plugin",
@@ -772,6 +840,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -783,6 +852,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -794,10 +864,11 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Accessibility Checker",
       "name": "wpackagist-plugin/accessibility-checker",
       "description": "Accessibility Checker automatically scans your content each time you save a draft or hit publish, giving you real-time feedback on your post’s or page’s accessibility. Receive a visual overview of how your content stacks up against more than 40 different accessibility checks created to meet Web Content Accessibility Guidelines (WCAG) 2.1 success criteria.",
       "type": "wordpress-plugin",
@@ -805,6 +876,7 @@
         "short": "awaiting-review",
         "description": "Awaiting Review"
       },
+      "keywords": [],
       "source": "wpackagist.org"
     },
     {
@@ -816,6 +888,7 @@
         "short": "approved",
         "description": "Approved for use on University of Missouri sites."
       },
+      "keywords": [],
       "source": "connect.advancedcustomfields.com"
     }
   ]
