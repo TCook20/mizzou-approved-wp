@@ -37,9 +37,6 @@
   "overrides": {
     "react-refresh": "0.11.0"
   },
-  "resolutions": {
-    "react-refresh": "0.11.0"
-  },
   "scripts": {
     "start": "craco start",
     "build": "react-scripts build",
