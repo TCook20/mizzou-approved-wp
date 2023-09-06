@@ -24,7 +24,6 @@ pages:
   variables:
     GIT_STRATEGY: none        # Do not clone git repo
     NODE_ENV: production
-    PUBLIC_URL: https://university-of-missouri.gitlab.io/mizzou-digital/wordpress/wp-packages/approved-wordpress-list/
   script:
     # Rename the CRA `build` folder to `public`
     - mv build public         
