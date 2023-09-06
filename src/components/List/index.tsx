@@ -14,7 +14,7 @@ export interface PackageListProps {
 const PackageList = ({
   theme = 'default',
   attributes,
-  list = listdata.list,
+  list = listdata.list.sort((a, b) => a.name.localeCompare(b.name)),
 }: PackageListProps): JSX.Element => {
   const PackageListAttributes = {
     ...attributes,
