@@ -1,11 +1,5 @@
 .miz-package-filters {
   display: grid;
   grid-gap: 1rem;
-  align-items: center;
-  justify-content: space-evenly;
   margin-bottom: 1rem;
-
-  @media (min-width: 992px) {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
