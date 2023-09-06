@@ -30,7 +30,7 @@ const PackageList = ({
     <ul { ...PackageListAttributes }>
       { list.map( (item: { status: { short: string; description: string }; name: string; description: string; type: string; source: string } ) => (
         <ListItem status={ item.status.short }>
-          <h3>{ item.name }</h3>
+          <h3>{ item.title }</h3>
           <p>{ item.description }</p>
           <dl>
             <dt>Package Type</dt>
@@ -42,6 +42,9 @@ const PackageList = ({
             ) }
             { item.status.description && (
               <><dt>Status Description</dt><dd>{ item.status.description }</dd></>
+            ) }
+            { item.name && (
+              <><dt>Composer Package</dt><dd><code>{ item.name }</code></dd></>
             ) }
           </dl>
         </ListItem>

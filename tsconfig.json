@@ -1,4 +1,5 @@
 {
+  "extends": "./tsconfig.paths.json",
   "compilerOptions": {
     "module": "commonjs",
     "target": "es5",
@@ -13,9 +14,13 @@
     "esModuleInterop": true,
     "rootDir": "./src/",
     "outDir": "./dist/es5/",
-    "resolveJsonModule": true,
+    "resolveJsonModule": true
   },
-  "include": ["src/**/*", "types/**/*", "*", "node_modules"],
-  "compileOnSave": false,
-  "extends": "./tsconfig.paths.json"
+  "include": [
+    "src/**/*",
+    "types/**/*",
+    "*",
+    "node_modules"
+  ],
+  "compileOnSave": false
 }
