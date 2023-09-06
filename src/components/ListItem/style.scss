@@ -1,16 +1,24 @@
 @use 'sass:color';
 
 .miz-package-list-item {
-  padding: 1rem;
   border: 1px solid;
   border-radius: .5rem;
   margin-bottom: 2rem;
 
   &--approved {
     background-color: color.scale(#3F8F26, $lightness: 50%);
+    border-color: #3F8F26;
   }
 
   &--not-approved {
     background-color: color.scale(#EE0312, $lightness: 50%);
+    border-color: #EE0312;
+  }
+
+  code {
+    display: inline-block;
+    padding: 1rem;
+    background-color: #111;
+    color: #fff
   }
 }

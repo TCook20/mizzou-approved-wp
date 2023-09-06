@@ -7,12 +7,14 @@ import './style.scss'
 export interface FiltersProps {
   attributes?: object,
   type: string,
+  source: string,
   status: string,
 }
 
 const Filters = ({
   attributes,
   type,
+  source,
   status,
 }: FiltersProps): JSX.Element => {
   const FiltersAttributes = {
@@ -22,6 +24,27 @@ const Filters = ({
 
   return (
     <div {...FiltersAttributes}>
+      <SelectControl
+        label="Package Source"
+        value={ source }
+        options={ [
+          {
+            value: '',
+            label: 'Select Source',
+            disabled: true,
+          },
+          {
+            label: 'Mizzou Packages',
+            value: 'packages.missouri.edu',
+          },
+          {
+            label: 'WPackagist',
+            value: 'wpackagist.org',
+          },
+        ] }
+        __nextHasNoMarginBottom
+      />
+
       <SelectControl
         label="Package Type"
         value={ type }
@@ -71,6 +94,10 @@ const Filters = ({
           {
             label: 'Not Approved',
             value: 'not-approved',
+          },
+          {
+            label: 'Replace',
+            value: 'replace',
           },
         ] }
         __nextHasNoMarginBottom

@@ -18,7 +18,7 @@ const ListItem = ({
   const ListItemAttributes = {
     ...attributes,
     className: classNames(
-      'miz-package-list-item',
+      'miz-package-list-item', 'miz-card',
       {
         [`miz-package-list-item--${ status }`]: status
       }

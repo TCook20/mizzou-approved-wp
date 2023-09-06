@@ -24,7 +24,7 @@
       "type": "metapackage",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -36,7 +36,7 @@
       "type": "metapackage",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -48,7 +48,7 @@
       "type": "wordpress-theme",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -60,7 +60,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -72,19 +72,19 @@
       "type": "library",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
-      "title": "",
+      "title": "Mizzou WordPress Base Theme",
       "name": "mizzou/mizzou-wp-base",
       "description": "Generic Mizzou Parent Theme based on the MizzouMVC framework.",
       "type": "wordpress-theme",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -96,7 +96,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -108,7 +108,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -120,7 +120,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
@@ -132,19 +132,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "packages.missouri.edu"
     },
     {
-      "title": "",
+      "title": "WP SAML Auth",
       "name": "wpackagist-plugin/wp-saml-auth",
       "description": "SAML authentication for WordPress, using the bundled OneLogin SAML library or optionally installed SimpleSAMLphp. OneLogin provides a SAML authentication bridge; SimpleSAMLphp provides SAML plus a variety of other authentication mechanisms. This plugin acts as a bridge between WordPress and the authentication library.",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -156,19 +156,19 @@
       "type": "wordpress-theme",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Super Simple Account Enumeration Blocker",
       "name": "wpackagist-plugin/super-simple-account-enumeration-blocker",
       "description": "This plugin: removes the redirection of a request from /?author=# to an author's pretty permalink, changes author pretty permalinks to /?author=#, changes author feed pretty permalinks to /?author=#&feed=, removes author slug property from user response object for user endpoint in the REST API, and removes overly informative error message when login attempt fails",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -180,7 +180,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -192,7 +192,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -204,7 +204,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -216,7 +216,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -228,7 +228,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -264,7 +264,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -276,19 +276,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Admin Menu Editor",
       "name": "wpackagist-plugin/admin-menu-editor",
       "description": "Admin Menu Editor lets you manually edit the Dashboard menu. You can reorder the menus, show/hide specific items, change permissions, and more.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -300,7 +300,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -312,133 +312,133 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Black Studio TinyMCE Widget",
       "name": "wpackagist-plugin/black-studio-tinymce-widget",
       "description": "This plugin adds a new Visual Editor widget type that allows you to insert rich text and media objects in your sidebars with no hassle. With Black Studio TinyMCE Widget you will be able to edit your widgets in a WYSIWYG manner using the native WordPress TinyMCE editor, just like you do in posts and pages. And if you are a developer you may still switch back and forth from Visual to HTML mode.",
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Broadcast",
       "name": "wpackagist-plugin/threewp-broadcast",
       "description": "Network content syndication made easy! Automatically share content by multiposting between multisite blogs.",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Breadcrumb NavXT",
       "name": "wpackagist-plugin/breadcrumb-navxt",
       "description": "This plugin generates locational breadcrumb trails for your WordPress powered blog or website. These breadcrumb trails are highly customizable to suit the needs of just about any website running WordPress. The Administrative interface makes setting options easy, while a direct class access is available for theme developers and more adventurous users.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Category Order and Taxonomy Terms Order",
       "name": "wpackagist-plugin/taxonomy-terms-order",
       "description": "Order Categories and all custom taxonomies terms (hierarchically) using a Drag and Drop Sortable javascript capability.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Collapse-O-Matic",
       "name": "wpackagist-plugin/jquery-collapse-o-matic",
       "description": "Remove clutter and save space by placing content inside an expanding/collapsing accordion element.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "CMB2",
       "name": "wpackagist-plugin/cmb2",
       "description": "CMB2 is a developer’s toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind. Easily manage meta for posts, terms, users, comments, or create custom option pages.",
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Create And Assign Categories For Pages",
       "name": "wpackagist-plugin/create-and-assign-categories-for-pages",
       "description": "This plugin will help you to create the new category for your wordpress pages. You can assign those categories to your pages. With that, you can get your wordpress pages with the help of specific category.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Conditional Menus",
       "name": "wpackagist-plugins/conditional-menus",
       "description": "This plugin enables you to set conditional menus per posts, pages, categories, archive pages, etc.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Custom Sidebars – Dynamic Sidebar Widget Area Manager",
       "name": "wpackagist-plugin/custom-sidebars",
       "description": "Flexible sidebars for custom widget configurations on any page or post.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Custom Permalinks",
       "name": "wpackagist-plugin/custom-permalinks",
       "description": "Set the URL of any post, page, tag or category to anything you want. Old permalinks will redirect properly to the new address. Custom Permalinks give you ultimate control over your site structure.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "Display Posts",
+      "title": "Display Posts – Easy lists, grids, navigation, and more",
       "name": "wpackagist-plugin/display-posts-shortcode",
       "description": "Display Posts allows you easily list content from all across your website.",
       "type": "wordpress-plugin",
@@ -450,49 +450,49 @@
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Duplicate Page",
       "name": "wpackagist-plugin/duplicate-page",
       "description": "Duplicate Posts, Pages and Custom Posts easily using single click. You can duplicate your pages, posts and custom post by just one click and it will save as your selected options (draft, private, public, pending).",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Edit Flow",
       "name": "wpackagist-plugin/edit-flow",
       "description": "Edit Flow empowers you to collaborate with your editorial team inside WordPress.",
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Enable Media Replace",
       "name": "wpackagist-plugin/enable-media-replace",
       "description": "Easily replace any attached image/file by simply uploading a new file in the Media Library edit view.",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "EWWW Image Optimizer",
       "name": "wpackagist-plugin/ewww-image-optimizer",
       "description": "Smaller Images, Faster Sites, Happier Visitors. Comprehensive image optimization that doesn't require a degree in rocket science.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -510,49 +510,49 @@
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Health Check & Troubleshooting",
       "name": "wpackagist-plugin/health-check",
       "description": "This plugin will perform a number of checks on your WordPress installation to detect common configuration errors and known issues, and also allows plugins and themes to add their own checks.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Hide Page And Post Title",
       "name": "wpackagist-plugin/hide-page-and-post-title",
       "description": "Hide title or Hide page and post title plugin provides functionality to user to hide the page and post title.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Interactive Geo Maps",
       "name": "wpackagist-plugin/interactive-geo-maps",
       "description": "Create interactive maps with regions and coloured markers. You can display the world map, continent maps and single country maps.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Ivory Search – WordPress Search Plugin",
       "name": "wpackagist-plugin/add-search-to-menu",
       "description": "With Ivory Search, you can create an unlimited number of search forms and configure each search form individually to customize WordPress search and perform different types of searches on site content.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -564,18 +564,18 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Knight Lab Timeline",
       "name": "wpackagist-plugin/knight-lab-timelinejs",
       "description": "A simple shortcode plugin to add the TimelineJS made by Knight Lab. Supports custom width and height, Google Spreadsheet and JSON data sources “Learn how to create your data source”) and many more.",
       "type": "wordpress-plugin",
       "status": "not-approved",
-      "statusDescription": "Not Approved. Doesn't work with block editor.",
+      "statusDescription": "Doesn't work with block editor.",
       "keywords": [],
       "source": "wpackagist.org"
     },
@@ -586,19 +586,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "No Category Base (WPML)",
       "name": "wpackagist-plugin/no-category-base-wpml",
       "description": "This plugin removes the mandatory 'Category Base' from your category permalinks.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -610,67 +610,67 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Page Links To",
       "name": "wpackagist-plugin/page-links-to",
       "description": "Lets you make a WordPress page (or port or other content type) link to a URL of your choosing (on your site, or on another site).",
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Posts 2 Posts",
       "name": "wpackagist-plugin/posts-to-posts",
       "description": "Efficient many-to-many connections between posts, pages, custom post.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Post Types Order",
       "name": "wpackagist-plugin/post-types-order",
       "description": "Sort Posts and custom Post Type Objects (custom post types) using a Drag and Drop Sortable JavaScript AJAX interface or default WordPress dashboard.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Proper Network Activation",
       "name": "wpackagist-plugin/proper-network-activation",
       "description": "When running WordPress MultiSite, you have a very handy feature called network activation. It allows you to activate a plugin for the entire network of sites.",
       "type": "wordpress-plugin",
       "status": {
         "short": "not-approved",
-        "description": "Not Approved. Not tested with latest 3 major releases."
+        "description": "Not tested with latest 3 major releases."
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "PublishPress Future",
+      "title": "PublishPress Future: Automatically Unpublish WordPress Posts",
       "name": "wpackagist-plugin/post-expirator",
       "description": "The PublishPress Future plugin allows you to make automatic changes to posts, pages and other content types. On a date you choose, PublishPress Future can delete your post, change the status, or update the post categories, or make other changes.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -682,19 +682,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Safe SVG",
       "name": "wpackagist-plugin/safe-svg",
       "description": "Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -706,19 +706,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "WordPress Tooltips",
       "name": "wpackagist-plugin/wordpress-tooltips",
       "description": "Tooltips are small popup box with more information like video / audio / image / google maps / QR code / wiki / text… and so, tooltips box will pop up when users hover over an element in your pages, the element can be a word in your post, a search form input box, an image in your page, a widget on your sidebar.. and so on.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -730,43 +730,43 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "WP Extra File Types",
       "name": "wpackagist-plugin/wp-extra-file-types",
       "description": "This plugin let you add file types to the default list of file extensions supported by the Media Library upload procedure.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Maps Plugin using Google Maps for WordPress – WP Google Map",
       "name": "wpackagist-plugin/gmap-embed",
       "description": "WP Google Map is an awesome plugin to use when adding a custom Google map to your website. It is fully customizable and can be used as shortcode.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "Yoast SEO",
       "name": "wpackagist-plugin/wordpress-seo",
       "description": "Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -778,7 +778,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -790,19 +790,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "GA Google Analytics – Connect Google Analytics to WordPress",
       "name": "wpackagist-plugin/ga-google-analytics",
       "description": "This plugin enables Google Analytics for your entire WordPress site. Lightweight and fast with plenty of great features.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -814,19 +814,19 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "ShareThis Dashboard for Google Analytics",
       "name": "wpackagist-plugin/googleanalytics",
       "description": "Monitor, analyze, and measure visitor engagement for your site directly from your WordPress dashboard with our Google Analytics plugin. With our Google Analytics dashboard, you’ll be able to conveniently access Google Analytics reports in the same interface you already use every day to write and manage your posts.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -838,31 +838,31 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "WP Go Maps (formerly WP Google Maps)",
       "name": "wpackagist-plugin/wp-google-maps",
       "description": "The easy to use Google maps plugin. Create a custom Google map, store locator or map widget with high quality markers containing categories.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
     },
     {
-      "title": "",
+      "title": "XML Sitemap Generator for Google",
       "name": "wpackagist-plugin/google-sitemap-generator",
       "description": "This plugin will improve SEO by helping search enginess better index your site using sitemaps.",
       "type": "wordpress-plugin",
       "status": {
         "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -873,8 +873,8 @@
       "description": "Accessibility Checker automatically scans your content each time you save a draft or hit publish, giving you real-time feedback on your post’s or page’s accessibility. Receive a visual overview of how your content stacks up against more than 40 different accessibility checks created to meet Web Content Accessibility Guidelines (WCAG) 2.1 success criteria.",
       "type": "wordpress-plugin",
       "status": {
-        "short": "awaiting-review",
-        "description": "Awaiting Review"
+        "short": "approved",
+        "description": ""
       },
       "keywords": [],
       "source": "wpackagist.org"
@@ -886,7 +886,7 @@
       "type": "wordpress-plugin",
       "status": {
         "short": "approved",
-        "description": "Approved for use on University of Missouri sites."
+        "description": ""
       },
       "keywords": [],
       "source": "connect.advancedcustomfields.com"

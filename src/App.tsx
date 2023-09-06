@@ -1,7 +1,8 @@
 import React from 'react'
 
-import Ribbon from 'Components/Ribbon/Ribbon'
 import Footer from 'Components/Footer/Footer'
+import Masthead from 'Components/Masthead/Masthead'
+import Ribbon from 'Components/Ribbon/Ribbon'
 
 import './App.css'
 import './assets/css/miz.css'
@@ -19,9 +20,9 @@ function App() {
           </div>
         </div>
 
-        <div className="miz-masthead">
+        <div className="miz-fill--white">
           <div className="miz-container">
-            <h1 className="miz-masthead__title">WordPress List</h1>
+            <Masthead title="WordPress List" subtitle={ 'Approval Status for WordPress Plugins, Themes, and Packages' } />
           </div>
         </div>
       </header>
