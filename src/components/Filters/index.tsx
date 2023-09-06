@@ -1,6 +1,6 @@
 import React from 'react'
 import classNames from 'classnames'
-import { Button, RangeControl, SelectControl } from '@wordpress/components';
+import { SelectControl } from '@wordpress/components';
 
 import './style.scss'
 
