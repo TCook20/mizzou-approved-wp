@@ -40,9 +40,11 @@ function App() {
             </a>
             .
           </p>
-          <Filters />
           <PackageList />
         </article>
+        <aside className="miz-main-grid__sidebar">
+          <Filters />
+        </aside>
       </main>
 
       <Footer theme="dark" />
