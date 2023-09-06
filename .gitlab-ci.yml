@@ -1,11 +1,14 @@
 stages:
   - build
-  - deploy
+  - deploy 
 
 build:
   image: node:latest    # Run the job in a `node` docker image
   stage: build
   script:
+    - npm set config @university-of-missouri:registry=https://gitlab.com/api/v4/packages/npm/
+    - npm config set -- '//gitlab.com/api/v4/packages/npm/::_authToken' "${MIZ_DS_ACCESS_TOKEN}"
+    - npm config set always-auth true
     - yarn install      # Run `yarn install` and `yarn build`
     - yarn build
   artifacts:
