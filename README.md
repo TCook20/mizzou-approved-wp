@@ -28,4 +28,4 @@ See also the list of [contributors][approval-list-app-contributors] who particip
 [approval-list-app]: https://gitlab.com/cooktw/approved-wordpress-list/
 [approval-list-app-tags]: (https://gitlab.com/cooktw/approved-wordpress-list/-/tags
 [approval-list-app-changelog]: https://gitlab.com/cooktw/approved-wordpress-list/-/blob/main/CHANGELOG.md
-[approval-list-app-contributors]: https://gitlab.com/cooktw/approved-wordpress-list/-/graphs/master
+[approval-list-app-contributors]: https://gitlab.com/cooktw/approved-wordpress-list/-/graphs/main
